@@ -9,8 +9,8 @@ type Query {
     _id: ID!
     username: String!
     email: String!
-   bookCount: Int
-   savedBooks: [Book]
+    bookCount: Int
+    savedBooks: [Book]
   }
 
   type Mutation {
