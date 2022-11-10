@@ -1,4 +1,5 @@
 ## MERN Challenge: Book Search Engine
+This application was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API.
 
 # User Story
 AS AN avid reader
