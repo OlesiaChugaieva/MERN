@@ -33,6 +33,14 @@ type Auth {
     token: ID!
     user: User
 }
+input BookInput {
+    bookId: String!
+    authors: [String]
+    description: String!
+    title: String!
+    image: String
+    link: String
+  }
 `;
 
 module.exports = typeDefs;
